@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**lightcatcher415/lightcatcher415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I am Suzen.
 
-Here are some ideas to get you started:
+I am a UI/UX designer who code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is my lastest project - [HBD Freebies](http://hbdfreebies-prototype.suzencwchu.com/).
+And this is the [Figma prototype](http://hbdfreebies-figma.suzencwchu.com/).
+
+I am currently looking for UI/UX designer role.
+I am profiecent in Figma, Sketch, Adobe Creative Suite.
+I empathize my users when doing design thinking, I am passionate in building user-friendly and intuitive experience.
+
+Feel free to visit my [portfolio site](https://suzencwchu.com/)
